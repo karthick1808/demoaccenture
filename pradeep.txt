@@ -1,6 +1,11 @@
+Hello Kiran
+<<<<<<< HEAD
 <<<<<<< HEAD
 Second insertion
 this is first day of class
+=======
+Hello Rohini
+>>>>>>> ef5d54645d7c3d39bc7dc9e119c55348c0056085
 =======
 hello hello
 >>>>>>> 74a05624d874da4787f12c5301536da1bad4efc7
